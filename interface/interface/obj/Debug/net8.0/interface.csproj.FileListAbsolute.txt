@@ -1,0 +1,14 @@
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\sirota_vv\source\repos\interface\interface\bin\Debug\net8.0\interface.exe
+C:\Users\sirota_vv\source\repos\interface\interface\bin\Debug\net8.0\interface.deps.json
+C:\Users\sirota_vv\source\repos\interface\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+C:\Users\sirota_vv\source\repos\interface\interface\bin\Debug\net8.0\interface.dll
+C:\Users\sirota_vv\source\repos\interface\interface\bin\Debug\net8.0\interface.pdb
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.dll
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\refint\interface.dll
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.pdb
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+C:\Users\sirota_vv\source\repos\interface\interface\obj\Debug\net8.0\ref\interface.dll
