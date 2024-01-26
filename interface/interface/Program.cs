@@ -35,7 +35,6 @@ namespace Interface
                 var a = "I am a simple robot.";
                 return a;
             }
-
         }
         interface IChargeable
         {
